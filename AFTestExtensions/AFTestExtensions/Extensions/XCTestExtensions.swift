@@ -6,6 +6,7 @@
 //  Copyright © 2015 Danske Bank. All rights reserved.
 //
 
+import Foundation
 import XCTest
 
 public extension XCTestCase {

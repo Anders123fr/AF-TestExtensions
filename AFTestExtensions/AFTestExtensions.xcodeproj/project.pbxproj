@@ -93,8 +93,8 @@
 			buildPhases = (
 				9A785D2D1E49BE6C00D536FB /* Sources */,
 				9A785D2E1E49BE6C00D536FB /* Frameworks */,
-				9A785D2F1E49BE6C00D536FB /* Headers */,
 				9A785D301E49BE6C00D536FB /* Resources */,
+				9A785D2F1E49BE6C00D536FB /* Headers */,
 			);
 			buildRules = (
 			);
@@ -336,6 +336,7 @@
 				9A785D3C1E49BE6C00D536FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
